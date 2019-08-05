@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata" fqn="MeetingRooms">
+    <apiVersion>46.0</apiVersion>
+    <isExposed>true</isExposed>
+    <targets>
+        <taget>lightning__AppPage</target>
+        <taget>lightning__HomePage</target>
+        <taget>lightning__RecordPage</target>
+    </targets>
+
+</LightningComponentBundle>

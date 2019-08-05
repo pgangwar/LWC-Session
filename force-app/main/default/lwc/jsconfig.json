@@ -4,6 +4,18 @@
         "paths": {
             "c/helloWorld": [
                 "helloWorld/helloWorld.js"
+            ],
+            "c/MeetingRoom": [
+                "MeetingRoom/MeetingRoom.js"
+            ],
+            "c/meetingRoom": [
+                "meetingRoom/meetingRoom.js"
+            ],
+            "c/MeetingRooms": [
+                "MeetingRooms/MeetingRooms.js"
+            ],
+            "c/meetingRooms": [
+                "meetingRooms/meetingRooms.js"
             ]
         },
         "experimentalDecorators": true
