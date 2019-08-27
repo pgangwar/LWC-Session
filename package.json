@@ -1,0 +1,23 @@
+{
+  "name": "lwcsessions",
+  "version": "1.0.0",
+  "description": "Unit Testing for LWC Session Code",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@salesforce/lwc-jest": "^0.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgangwar/LWC-Session.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgangwar/LWC-Session/issues"
+  },
+  "homepage": "https://github.com/pgangwar/LWC-Session#readme"
+}

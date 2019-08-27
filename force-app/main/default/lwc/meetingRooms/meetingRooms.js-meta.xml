@@ -3,9 +3,9 @@
     <apiVersion>46.0</apiVersion>
     <isExposed>true</isExposed>
     <targets>
-        <taget>lightning__AppPage</target>
-        <taget>lightning__HomePage</target>
-        <taget>lightning__RecordPage</target>
+        <target>lightning__RecordPage</target>
+        <target>lightning__AppPage</target>
+        <target>lightning__HomePage</target>
     </targets>
 
 </LightningComponentBundle>
