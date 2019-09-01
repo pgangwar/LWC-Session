@@ -10,6 +10,15 @@
             ],
             "c/meetingRooms": [
                 "meetingRooms/meetingRooms.js"
+            ],
+            "c/carSearchForm": [
+                "carSearchForm/carSearchForm.js"
+            ],
+            "c/carSearch": [
+                "carSearch/carSearch.js"
+            ],
+            "c/carSearchResult": [
+                "carSearchResult/carSearchResult.js"
             ]
         },
         "experimentalDecorators": true
