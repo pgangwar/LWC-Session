@@ -2,6 +2,24 @@
     "compilerOptions": {
         "baseUrl": ".",
         "paths": {
+            "c/bmiCalculator": [
+                "bmiCalculator/bmiCalculator.js"
+            ],
+            "c/carDetails": [
+                "carDetails/carDetails.js"
+            ],
+            "c/carSearch": [
+                "carSearch/carSearch.js"
+            ],
+            "c/carSearchForm": [
+                "carSearchForm/carSearchForm.js"
+            ],
+            "c/carSearchResult": [
+                "carSearchResult/carSearchResult.js"
+            ],
+            "c/carTile": [
+                "carTile/carTile.js"
+            ],
             "c/helloWorld": [
                 "helloWorld/helloWorld.js"
             ],
@@ -10,15 +28,6 @@
             ],
             "c/meetingRooms": [
                 "meetingRooms/meetingRooms.js"
-            ],
-            "c/carSearchForm": [
-                "carSearchForm/carSearchForm.js"
-            ],
-            "c/carSearch": [
-                "carSearch/carSearch.js"
-            ],
-            "c/carSearchResult": [
-                "carSearchResult/carSearchResult.js"
             ]
         },
         "experimentalDecorators": true
